@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "s:\\realtimeroads\\plugins\\vptoolkit\\canonlivelinkplugin\\source\\canonlivelinkplugin\\private\\scanonlivelinkpluginsourcefactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "s:\\realtimeroads\\intermediate\\build\\win64\\x64\\realtimeroadseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "s:\\realtimeroads\\plugins\\vptoolkit\\canonlivelinkplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\canonlivelinkplugin\\definitions.canonlivelinkplugin.h",
+            "s:\\realtimeroads\\plugins\\vptoolkit\\canonlivelinkplugin\\source\\canonlivelinkplugin\\private\\scanonlivelinkpluginsourcefactory.h",
+            "s:\\ue_5.6\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4endpoint.h",
+            "s:\\ue_5.6\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4address.h",
+            "s:\\ue_5.6\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4subnetmask.h",
+            "s:\\ue_5.6\\engine\\source\\runtime\\sockets\\public\\socketsubsystem.h",
+            "s:\\ue_5.6\\engine\\source\\runtime\\sockets\\public\\addressinfotypes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

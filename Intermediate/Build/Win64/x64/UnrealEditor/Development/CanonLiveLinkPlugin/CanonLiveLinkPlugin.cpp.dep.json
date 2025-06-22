@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "s:\\realtimeroads\\plugins\\vptoolkit\\canonlivelinkplugin\\source\\canonlivelinkplugin\\private\\canonlivelinkplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "s:\\realtimeroads\\intermediate\\build\\win64\\x64\\realtimeroadseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "s:\\realtimeroads\\plugins\\vptoolkit\\canonlivelinkplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\canonlivelinkplugin\\definitions.canonlivelinkplugin.h",
+            "s:\\realtimeroads\\plugins\\vptoolkit\\canonlivelinkplugin\\source\\canonlivelinkplugin\\private\\canonlivelinkplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
